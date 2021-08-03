@@ -1,0 +1,10 @@
+canvas {
+     background: rgb(230, 183, 183);
+     
+}
+#CanvasDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
